@@ -17,7 +17,7 @@ sudo apt-get update
 echo "Installing dependencies..."
 sudo apt-get install git help2man perl python3 make
 sudo apt-get install g++  # Alternatively, clang
-sudo apt-get install libgz  # Non-Ubuntu (ignore if gives error)
+#sudo apt-get install libgz  # Non-Ubuntu (ignore if gives error)
 sudo apt-get install libfl2  # Ubuntu only (ignore if gives error)
 sudo apt-get install libfl-dev  # Ubuntu only (ignore if gives error)
 sudo apt-get install zlibc zlib1g zlib1g-dev  # Ubuntu only (ignore if gives error)
